@@ -1,1 +1,1 @@
-# MIDPS
+# Desfasurarea lucrarii de laborator nr.1
