@@ -251,8 +251,5 @@ paket-files/
 .idea/
 *.sln.iml
 
-# Ignore .txt
-# Ignore .txt
-*.txt
-# Ignore .txt
+# Ignore txt
 *.txt
