@@ -14,3 +14,9 @@
 
 # Raportul in format pdf
 Click [here](https://github.com/PopusoiVictor/MIDPS/blob/master/Laborator%201/source/Lab%20template.pdf)
+
+# Greutati pe care le-am intilnit in timpul efectuarii 
+1) Nu puteam face push pe un anumit branch. Apoi m-am documentat si am reusit sa inlatur aceasta problema.
+2) Nu puteam sa fac stash, duca care am aflat ca mai intii trebuie de modificat ceva si apoi de facut git stash.
+3) Nu puteam sa ignore un fisier .txt cu ajutorul fisierului .gitignore, dupa care am creat alt fisier cu extenisa .lib si acest fisier a fost ignorat.
+4) Nu puteam sa fac un conflict, dupa care am modificat fisierul README  din fiecare branch si cind am facut git merge master mi-a aparut ca in fisierul README s-a produs un conflict.Dupa care am luat si am inlaturat conflictul.
