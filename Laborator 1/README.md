@@ -11,3 +11,6 @@
 9. Am introdus un fisier in gitignore, fisierul fiind ignorat
 10. Am combinat modificarile a doua branchuri
 11. Am rezolvat conflictul dintre 2 branchuri
+
+# Raportul in format pdf
+Click [here](https://github.com/PopusoiVictor/MIDPS/blob/master/Laborator%201/source/Lab%20template.pdf)
