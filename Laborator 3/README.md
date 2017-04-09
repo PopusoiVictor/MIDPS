@@ -1,8 +1,11 @@
 # Desfasurarea lucrarii de laborator nr.3
 
 Mai intii am realizat mockup-ul la website. Pentru a merge la mockup, click [here](https://app.moqups.com/PopusoiVictor/VudC1hgOf8/view/page/a04c76350)
+
 Apoi am creat 3 pagini statice.
-Am facut legatura cu baza de date prin phpMyAdmin 
+
+Am facut legatura cu baza de date prin phpMyAdmin.
+
 Apoi am creat un tabel in baza de date unde am adaugat date despre masini cara mai apoi sunt incarcate dinamic pe website.
 
 

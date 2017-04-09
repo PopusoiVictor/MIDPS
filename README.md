@@ -3,10 +3,14 @@ Lucrari de laborator la disciplina Medii Interactive de Dezvoltare a Produselor 
 
 Studentul grupei TI-154 Popusoi Victor
 
-#Lucrarea de laborator nr.1
+# Lucrarea de laborator nr.1
 
 Pentru a merge la continutul lucarii de laborator nr.1 click here -> [here](https://github.com/PopusoiVictor/MIDPS/tree/master/Laborator%201)
 
-#Lucrarea de laborator nr.2
+# Lucrarea de laborator nr.2
 
 Pentru a merge la continutul lucarii de laborator nr.2 click here -> [here](https://github.com/PopusoiVictor/MIDPS/tree/master/Laborator%202)
+
+# Lucrarea de laborator nr.3
+
+Pentru a merge la continutul lucarii de laborator nr.2 click here -> [here](https://github.com/PopusoiVictor/MIDPS/tree/master/Laborator%203)
