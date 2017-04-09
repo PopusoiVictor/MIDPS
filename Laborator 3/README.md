@@ -1,7 +1,6 @@
 # Desfasurarea lucrarii de laborator nr.3
 
-Mai intii am realizat mockup-ul la website Click [here]
-(https://github.com/PopusoiVictor/MIDPS/blob/master/Laborator%202/source/Lab%20template.pdf)
+Mai intii am realizat mockup-ul la website Click [here](https://github.com/PopusoiVictor/MIDPS/blob/master/Laborator%202/source/Lab%20template.pdf)
 
 # Raportul in format pdf
 
