@@ -11,7 +11,7 @@ Pentru crearea si editarea texturilor am folosit Adobe Photoshop.
 
 # Raportul in format pdf
 
-Click [here](https://github.com/PopusoiVictor/MIDPS/blob/master/Laborator%203/Lab%20template.pdf)
+Click [here](https://github.com/PopusoiVictor/MIDPS/blob/master/Laborator%204/Lab%20template.pdf)
 
 # Greutatile pe care le-am intilnit in timpul efectuarii 
 
