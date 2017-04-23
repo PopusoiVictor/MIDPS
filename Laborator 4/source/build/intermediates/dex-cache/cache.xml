@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.5.6\7587cece665b8bbcc8e02171a77cb47a2bf0b155\gdx-box2d-1.5.6.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7587cece665b8bbcc8e02171a77cb47a2bf0b155">
+        <dex dex="E:\TI\Anul II\Semestrul IV\MIDPS\Lab 4\FlappyBird\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.6-6c04b013e75f5bbb69ee42d60eaaeeba82612a59.jar" />
+    </item>
+    <item
+        jar="E:\TI\Anul II\Semestrul IV\MIDPS\Lab 4\FlappyBird\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ddd19ad64bedda175e491568c8dad5da29677c4c">
+        <dex dex="E:\TI\Anul II\Semestrul IV\MIDPS\Lab 4\FlappyBird\android\build\intermediates\pre-dexed\debug\core-1.0-a5f86224de960c8c1b905505d884cf24485a42df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.6\3031ab23b99fca1c102ad9fa866aeb06f938b8e2\gdx-backend-android-1.5.6.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3031ab23b99fca1c102ad9fa866aeb06f938b8e2">
+        <dex dex="E:\TI\Anul II\Semestrul IV\MIDPS\Lab 4\FlappyBird\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.6-e8c846a3663bb3d55ecaaa587f0be1a2ae6ffd5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.6\93418008f79684e0fbe15d487c82c21b63389f18\gdx-1.5.6.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93418008f79684e0fbe15d487c82c21b63389f18">
+        <dex dex="E:\TI\Anul II\Semestrul IV\MIDPS\Lab 4\FlappyBird\android\build\intermediates\pre-dexed\debug\gdx-1.5.6-53fc4c8990d4887e36eded61cc66ead7e61fb866.jar" />
+    </item>
+
+</items>
