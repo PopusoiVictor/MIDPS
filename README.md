@@ -21,4 +21,4 @@ Pentru a merge la continutul lucarii de laborator nr.4 click here -> [here](http
 
 # Lucrarea de laborator nr.5
 
-Pentru a merge la continutul lucarii de laborator nr.4 click here -> [here](https://github.com/PopusoiVictor/MIDPS/tree/master/Laborator%205)
+Pentru a merge la continutul lucarii de laborator nr.5 click here -> [here](https://github.com/PopusoiVictor/MIDPS/tree/master/Laborator%205)
