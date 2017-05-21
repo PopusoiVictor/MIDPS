@@ -40,4 +40,18 @@
       * User friendly
 
   
-  Nivelul se va aprecia in functie de complexitatea aplicatiei si rezultatul final.
+  Nivelul se va aprecia in functie de complexitatea aplicatiei si rezultatul final.  
+  
+ # Divizarea Task-urilor
+ 
+ Cobilas Vasile
+ * partea de front-end a website-ului.
+ 
+ Jechiu Marina
+ * crearea paginii Top Players.
+ * traducerea paginilor.
+ 
+ Popusoi Victor 
+ * implementarea algoritmului jocului Yahtzee
+ * crearea posibilitatii de inregistrare,logare,logout a utilizatorului.
+ * salvarea datelor despre utilizator in baza de date.  
