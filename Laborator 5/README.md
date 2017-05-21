@@ -46,9 +46,11 @@
  
  Cobilas Vasile
  * partea de front-end a website-ului.
+ 
  Jechiu Marina
  * crearea paginii Top Players.
  * traducerea paginilor.
+ 
  Popusoi Victor 
  * implementarea algoritmului jocului Yahtzee
  * crearea posibilitatii de inregistrare,logare,logout a utilizatorului.
