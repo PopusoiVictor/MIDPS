@@ -16,8 +16,13 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">		
 	<style>
 		#content {
-			color: orange;
+			text-underline: underline;
+			font-size: 24px;
+			color: red;
 			text-shadow: 1px 1px 1px black
+		}
+		#content b, #content strong {
+			display: none;
 		}
 	</style>
 </head>
